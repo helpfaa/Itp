@@ -1,7 +1,7 @@
-vmess://eyJhZGQiOiI0My4yMjkuMTM1LjY1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ3NjAyYWFhLWVlMTctNDU4YS1iMTQ5LTIzZDUzNDIxMzkwNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiKDIxNDgpIHwgVEggfCBWTWVzcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#%282145%29%20%7C%20DE%20%7C%20VLESS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#backup5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%7C%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Vpnbackup%E2%9D%A4%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#backup3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Vpnbackup%F0%9F%94%91%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Vpnbackup%F0%9F%94%91%232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Vpnbackup%F0%9F%94%91%233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Vpnbackup%F0%9F%94%91%234
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Vpnbackup%F0%9F%94%91%235
+vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#Vpnbackup%F0%9F%94%91%236
+vmess://eyJhZGQiOiI0My4yMjkuMTM1LjY1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ3NjAyYWFhLWVlMTctNDU4YS1iMTQ5LTIzZDUzNDIxMzkwNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiVnBuYmFja3Vw8J+UkSM3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
