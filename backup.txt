@@ -22,3 +22,4 @@ vless://37d1be61-ef74-4dd9-bc14-ced6c08f9d24@94.156.203.122:30056?security=&encr
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@45.129.185.185:2060?mode=gun&security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=f77e5398#Vpnbackup%F0%9F%94%91%2315%20%F0%9F%87%A6%F0%9F%87%B2
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#Vpnbackup%F0%9F%94%91%236%20%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig46.usecharge.ir:443#Vpnbackup%F0%9F%94%91%2315%20%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#Vpnbackup%F0%9F%94%91%2323%20%F0%9F%87%BA%F0%9F%87%B8
