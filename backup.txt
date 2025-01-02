@@ -38,3 +38,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@85.209.153.103:2198?security=none&e
 vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B5%F0%9F%87%B1
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.108:2198?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@88.218.93.231:2198?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.3.165:2198?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
