@@ -32,3 +32,5 @@ vmess://eyJhZGQiOiI0My4yMjkuMTM1LjY1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://9f177110-4a05-4a53-aced-f529dd9583ec@65.109.216.171:443?security=&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%AB%F0%9F%87%AE
 vless://0069b36c-ba6c-4c70-ae39-71be514b9820@79.127.70.83:443?security=&encryption=none&host=archlinux.org&headerType=http&type=tcp#Vpnbackup%20%20%F0%9F%87%A9%F0%9F%87%AA
 vless://8df15053-877b-43d5-968b-e1c93ad237be@5.75.148.3:8443?security=&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%A9%F0%9F%87%AA
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.131.112.54:2198?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@85.209.153.103:2198?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
