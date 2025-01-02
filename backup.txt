@@ -1,3 +1,4 @@
+vless://a13143d7-e873-4b97-8f82-4f5e4d7b03de@[2001:41d0:701:1000::3fdf]:21147?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%A9%F0%9F%87%AA
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.133:2198?security=none&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
 vless://1efdef9d-31e6-4273-b64e-de6451a85b62@nanishopact.ramvadminshop.com:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Vpnbackup%20%F0%9F%87%A9%F0%9F%87%AA
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=&encryption=none&headerType=none&type=tcp#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
