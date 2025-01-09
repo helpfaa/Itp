@@ -1,4 +1,5 @@
 vless://9e316ce0-8fd3-4058-bc5e-241f9c3a9f56@78.157.59.140:50067?path=%2F%23%2F%40MARAMBASHI&security=&encryption=none&host=MgbJP.divarcdn.com%2CLXHRl.snappfood.ir%2C3cubP.yjc.ir%2CXbifM.digikala.com%2CHL56Q.tic.ir&type=ws#Vpnbackup%F0%9F%87%A9%F0%9F%87%AA
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vless://4ca71384-fd84-4fd9-b948-2d764f4c49ab@freefight.site:1518?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#Vpnbackup%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#Vpnbackup%F0%9F%87%A9%F0%9F%87%AA
 vless://f5c96a83-dea7-4959-991c-3611bbfd7ecb@best1.bestshop10.ir:16072?mode=gun&security=&encryption=none&type=grpc#Vpnbackup%F0%9F%87%A9%F0%9F%87%AA
