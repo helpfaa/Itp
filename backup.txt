@@ -55,6 +55,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%BA%F0%9F%87%B8%20%40PewezaVPN_7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#%F0%9F%87%A8%F0%9F%87%B3%20vpnbackup
 vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@nl-1.srv.flexiblenet.org:8443?security=reality&encryption=none&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=f8d8d12585198cb5#Vpnbackup%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://570a01d8-52eb-4b60-8bb7-48ea9ef151a3@yukuai-ca.jiumaojiu.org:48161?security=tls&insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A6%F0%9F%87%B7%20%40PewezaVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#%F0%9F%87%AE%F0%9F%87%B3%20vpnbackup
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#%F0%9F%87%AE%F0%9F%87%B3%20%40PewezaVPN_2
